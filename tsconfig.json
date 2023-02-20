@@ -5,6 +5,7 @@
     "declaration": true,
     "strict": true,
     "sourceMap": true,
+    "skipLibCheck": true,
     "esModuleInterop": true,
     "outDir": "lib"
   },
